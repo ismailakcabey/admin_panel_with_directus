@@ -6,7 +6,7 @@ npm install
 npm run start
 ```
 
-# Screen Shots
+# Screen Shoots
 
 <img src="./uploads/32278b15-31d3-46cb-ab9b-8b2f3244d099.png"/>
 
